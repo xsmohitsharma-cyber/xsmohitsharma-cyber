@@ -18,7 +18,7 @@
 | **Focus** | Cloud Transformation, IT Ops Modernization, GenAI Integration |
 | **Location** | Noida, Uttar Pradesh, India |
 | **Current Role** | Leading enterprise IT transformation under Dedicated Captive (D-Cap) model |
-| **Achievement** | Profile: 94% Complete on Indeed, Published Author of 5 Technical Books |
+| **Achievement** | Profile:  Published Author of 5 Technical Books and multiple books on Personal Growth and self learning |
 
 ---
 
@@ -202,7 +202,7 @@ I am the author of **5 published technical books** on AI, business transformatio
 - **LinkedIn** – [linkedin.com/in/xsmohit](https://www.linkedin.com/in/xsmohit/)
 - **GitHub** – [github.com/xsmohitsharma-cyber](https://github.com/xsmohitsharma-cyber)
 - **Email** – [xsmohitsharma@gmail.com](mailto:xsmohitsharma@gmail.com)
-- **Indeed Profile** – 94% Complete ✓
+
 
 ### 💬 Let's Talk If You're:
 ✦ Building a Global Capability Center (GCC) and need experienced leadership
@@ -263,6 +263,6 @@ If you're serious about transformation, scale, and excellence—let's talk.
 
 ---
 
-**Last Updated:** December 2025 | Profile Complete: 94% ✓
+**Last Updated:** December 2025 | Profile Complete: 99% ✓
 
 *This repository serves as my digital presence—a reflection of who I am as a technologist, leader, author, and builder.*
